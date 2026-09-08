@@ -45,4 +45,4 @@ CelesTrak (celestrak.org) — public domain orbital data maintained by Dr T.S. K
 
 ## Live demo
 
-[VERCEL_URL]
+https://orbitr-24anaj83l-solace7.vercel.app
