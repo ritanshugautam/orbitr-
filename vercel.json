@@ -1,8 +1,5 @@
 {
   "rewrites": [
-    {
-      "source": "/api/celestrak",
-      "destination": "https://celestrak.org/NORAD/elements/gp.php?GROUP=active&FORMAT=JSON"
-    }
+    { "source": "/((?!api/).*)", "destination": "/index.html" }
   ]
 }
