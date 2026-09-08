@@ -9,7 +9,7 @@ lerna-debug.log*
 
 node_modules
 dist
-public/satellites.json
+# public/satellites.json is committed directly (Vercel build IPs are blocked by CelesTrak)
 dist-ssr
 *.local
 
